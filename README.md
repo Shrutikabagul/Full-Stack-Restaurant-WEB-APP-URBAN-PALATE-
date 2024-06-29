@@ -1,4 +1,5 @@
 Urban Palate - Restaurant Web App
+
 Welcome to Urban Palate, a full-stack web application designed to enhance your dining experience. This web app allows customers to easily book reservations at our restaurant with just a few clicks. Whether you're planning a romantic dinner, a family gathering, or a business meeting, Urban Palate makes the reservation process seamless and efficient.
 
 Features
